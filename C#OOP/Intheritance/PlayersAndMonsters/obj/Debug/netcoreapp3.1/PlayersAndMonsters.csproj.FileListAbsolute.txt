@@ -1,0 +1,14 @@
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.AssemblyReference.cache
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\SoftUniExersice\Intheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache

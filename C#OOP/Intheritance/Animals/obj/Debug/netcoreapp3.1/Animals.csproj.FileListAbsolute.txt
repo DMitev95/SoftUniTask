@@ -1,0 +1,14 @@
+D:\SoftUniExersice\Intheritance\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\SoftUniExersice\Intheritance\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\SoftUniExersice\Intheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\SoftUniExersice\Intheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\SoftUniExersice\Intheritance\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\SoftUniExersice\Intheritance\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\SoftUniExersice\Intheritance\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

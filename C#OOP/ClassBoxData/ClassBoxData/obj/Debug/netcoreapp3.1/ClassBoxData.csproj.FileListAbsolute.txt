@@ -1,0 +1,14 @@
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.AssemblyReference.cache
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\SoftUniExersice\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

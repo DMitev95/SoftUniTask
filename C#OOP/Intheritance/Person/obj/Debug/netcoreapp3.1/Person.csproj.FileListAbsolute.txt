@@ -1,0 +1,14 @@
+D:\SoftUniExersice\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\SoftUniExersice\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\SoftUniExersice\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\SoftUniExersice\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\SoftUniExersice\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\SoftUniExersice\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUniExersice\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
