@@ -1,0 +1,14 @@
+D:\SoftUniExersice\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\SoftUniExersice\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\SoftUniExersice\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\SoftUniExersice\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\SoftUniExersice\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\SoftUniExersice\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\SoftUniExersice\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

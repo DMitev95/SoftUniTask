@@ -1,0 +1,14 @@
+D:\SoftUniExersice\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\SoftUniExersice\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\SoftUniExersice\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\SoftUniExersice\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\SoftUniExersice\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\SoftUniExersice\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\SoftUniExersice\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

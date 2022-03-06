@@ -1,0 +1,14 @@
+D:\SoftUniExersice\FoodShortage\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+D:\SoftUniExersice\FoodShortage\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+D:\SoftUniExersice\FoodShortage\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+D:\SoftUniExersice\FoodShortage\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+D:\SoftUniExersice\FoodShortage\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+D:\SoftUniExersice\FoodShortage\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\SoftUniExersice\FoodShortage\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
