@@ -1,0 +1,14 @@
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+D:\SoftUniExersice\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+D:\SoftUniExersice\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+D:\SoftUniExersice\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+D:\SoftUniExersice\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+D:\SoftUniExersice\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+D:\SoftUniExersice\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

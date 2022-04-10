@@ -1,0 +1,10 @@
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUniExersice\C#OOP\Unit Testing\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
