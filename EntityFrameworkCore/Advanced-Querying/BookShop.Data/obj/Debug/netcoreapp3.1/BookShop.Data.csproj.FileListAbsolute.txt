@@ -1,0 +1,13 @@
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

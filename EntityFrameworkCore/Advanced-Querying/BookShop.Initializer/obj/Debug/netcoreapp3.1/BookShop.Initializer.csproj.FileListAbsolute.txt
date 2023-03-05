@@ -1,0 +1,15 @@
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.AssemblyReference.cache
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\SoftUniExersice\EntityFrameworkCore\Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb
